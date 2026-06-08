@@ -71,3 +71,28 @@ Use the generator to load model parameters and sample 500 characters starting fr
 ```bash
 python generate.py
 ```
+
+### Example output
+*This is an example output after 10000 iterations*
+```Text
+Hold not yours.
+
+CATINGS:
+I'll you to doth clove and the tall not: lappisiadection!
+Now me thee
+Them.
+
+LEONTES:
+A lown hought of Richild:
+I dish the pall hearful Colouse show,
+But stanceford the must coss fair combitith: have ron, time of proud'd forth a mey;
+To should.
+
+Munchwhat Make of my spaitine our him, this
+chate. That so grow: to death repeops is; able us a reade my risirst and be evils,
+Clised.
+Or jest'd;
+Thy then:
+Take weak yies was Corn sir?
+Which toulman: by of suple. I bane? Duked n
+```
