@@ -12,6 +12,7 @@ setup.sh
 *.pt
 *.txt
 *.ipynb
+*.pkl
 
 node_modules/
 
